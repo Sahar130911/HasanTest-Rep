@@ -1,2 +1,2 @@
 # HasanTest-Rep
-Test Repository for HASAN
+Test Repository for learning and testing
