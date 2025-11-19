@@ -14,7 +14,7 @@
             "kind": "Scheduled",
             "apiVersion": "2023-12-01-preview",
             "properties": {
-                "displayName": "HasanTest2",
+                "displayName": "HasanTest4",
                 "description": "",
                 "severity": "Medium",
                 "enabled": true,
